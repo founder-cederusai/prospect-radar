@@ -1,5 +1,0 @@
-{
-  "name": "Prospect Radar",
-  "description": "Advanced scouting dashboard interacting with a single Google Sheet structure. Features player comparison, NHLe calculation, and dynamic rankings.",
-  "requestFramePermissions": []
-}
